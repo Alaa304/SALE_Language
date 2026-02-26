@@ -35,20 +35,12 @@ The project combines a **graphical code editor** and a **compiler** that detects
 
 ---
 
-## 📂 Project Structure
-SALE_Language/
-├─ compiler.py # Core ESAL compiler
-├─ main.py # Graphical IDE
-├─ Image/
-│ ├─ Photo1.jpeg
-│ ├─ Photo2.jpeg
-│ └─ Photo3.jpeg
-└─ README.md # This file
 
 ![IDE Screenshot 1](Image/Photo1.jpeg)
 ![IDE Screenshot 2](Image/Photo2.jpeg)
 ![IDE Screenshot 3](Image/Photo3.jpeg)
 
+---
 
 🔹 Example ESAL Program
 esal() {
